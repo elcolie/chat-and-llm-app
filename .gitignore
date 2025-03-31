@@ -1,0 +1,5 @@
+.idea
+.python-version
+.streamlit/*
+.env
+pdf_rag_chroma_vectorstore
